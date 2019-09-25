@@ -1,0 +1,9 @@
+# Yes to SSH public keys
+PubkeyAuthentication yes
+
+# No to passwords
+PasswordAuthentication no
+
+# Keep connections alive for 24h
+ClientAliveInterval 120
+ClientAliveCountMax 720
