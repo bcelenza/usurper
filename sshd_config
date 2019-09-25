@@ -1,4 +1,4 @@
-# Yes to SSH public keys
+# Yes to public keys
 PubkeyAuthentication yes
 
 # No to passwords
