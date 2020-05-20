@@ -8,6 +8,7 @@ RUN apt update \
         iputils-ping \
         less \
         openssh-server \
+        openssl \
         net-tools \
     && apt clean \
     && mkdir /var/run/sshd
